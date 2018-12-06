@@ -1,0 +1,19 @@
+.headerRent{
+	text-align: center;
+	color: black;
+}
+.lblDate{
+	padding-top: 5%;	
+	font-weight: bold;
+	color: #4851A9;
+	text-align: center;
+}
+.footerDue{
+	text-align: center;
+	color: black;
+	font-weight: bold;
+}
+
+.rc-calendar-picker {
+	z-index: 5000!important;
+}

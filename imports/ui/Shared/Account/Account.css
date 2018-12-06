@@ -1,0 +1,31 @@
+.avatar {
+    padding-bottom: 15%;
+    width: 250px;
+    height: 250px;
+}
+
+.label_upload{
+font:10px;
+}
+.lblTxt{
+    text-align: center ;
+    font-style: italic;
+}
+.urlimg{
+    text-align: center;
+    font-style: oblique;
+    color: #4851A9;
+    font-weight: bold;
+}
+.balancehed{
+    text-align: center ;
+    color: #4851A9;
+    font-weight: bold;
+}
+
+.balance{
+    text-align: center ;
+    color:#66BE67;
+    font-style: italic;
+}
+
